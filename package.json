@@ -1,0 +1,16 @@
+{
+  "name": "gruntfiles",
+  "description": "Custom tasks for grunt",
+  "author": "Eric Woroshow <eric@ericw.ca> (http://ericw.ca)",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/errcw/gruntfiles.git"
+  },
+  "dependencies": {
+    "stylus": "0.22.x"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  }
+}
