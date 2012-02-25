@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "jade": "0.20.x",
+    "rimraf": "2.0.x",
     "stylus": "0.22.x"
   },
   "engines": {
