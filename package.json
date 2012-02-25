@@ -8,6 +8,7 @@
     "url": "git://github.com/errcw/gruntfiles.git"
   },
   "dependencies": {
+    "jade": "0.20.x",
     "stylus": "0.22.x"
   },
   "engines": {
